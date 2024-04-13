@@ -1,0 +1,26 @@
+{
+    "bathymetry": {
+        "type": "flat",
+        "width": 2581,
+        "height": 2581,
+        "deep": 1000,
+        "x-step": 1000,
+        "y-step": 1000
+    },
+    "run": {
+        "name": "NorthKuril-1952",
+        "init-wave": {
+            "type": "raw",
+            "file": "/home/mikhail/diser/data/first_2.wave"
+        },
+        "output-dir": "/home/mikhail/diser/data",
+        "timestep": 5,
+        "ground": 10.0,
+        "steps":4500,
+        "save-interval": 1,
+        "save-stride": 1,
+        "postprocess": [
+            {"type": "offshore-smooth", "period": 1, "ground": 10.0, "bound": 0.35, "coeff": 0.8}
+        ]
+    }
+}

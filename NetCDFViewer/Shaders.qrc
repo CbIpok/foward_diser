@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>null.vert</file>
+        <file>null.frag</file>
+        <file>jet.frag</file>
+        <file>geo.frag</file>
+        <file>water.frag</file>
+        <file>depth.frag</file>
+    </qresource>
+</RCC>
