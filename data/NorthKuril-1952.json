@@ -11,14 +11,14 @@
         "name": "NorthKuril-1952",
         "init-wave": {
             "type": "raw",
-            "file": "/home/mikhail/diser/data/first_2.wave"
+            "file": "/home/vboxuser/foward_diser/data/first_2.wave"
         },
-        "output-dir": "/home/mikhail/diser/data",
+        "output-dir": "/home/vboxuser/foward_diser/data",
         "timestep": 5,
         "ground": 10.0,
         "steps":4500,
         "save-interval": 1,
-        "save-stride": 1,
+        "save-stride": 2,
         "postprocess": [
             {"type": "offshore-smooth", "period": 1, "ground": 10.0, "bound": 0.35, "coeff": 0.8}
         ]
