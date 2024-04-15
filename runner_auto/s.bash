@@ -1,0 +1,7 @@
+/home/vboxuser/build-foward_diser-Desktop-Release/export_cdf/netcdf-exporter /home/vboxuser/foward_diser/data/octo/octo_1_6_all.json.nc height /tmp/height.txt 0 700 1200 200 1200 all
+/home/vboxuser/build-foward_diser-Desktop-Release/export_cdf/netcdf-exporter /home/vboxuser/foward_diser/data/octo/octo_1_32_all.json.nc height /tmp/height.txt 0 700 1200 200 1200 all
+/home/vboxuser/build-foward_diser-Desktop-Release/export_cdf/netcdf-exporter /home/vboxuser/foward_diser/data/octo/octo_1_1_all.json.nc height /tmp/height.txt 0 700 1200 200 1200 all
+/home/vboxuser/build-foward_diser-Desktop-Release/export_cdf/netcdf-exporter /home/vboxuser/foward_diser/data/octo_1_h.nc height /tmp/height.txt 0 700 1200 200 1200 1
+/home/vboxuser/build-foward_diser-Desktop-Release/export_cdf/netcdf-exporter /home/vboxuser/foward_diser/data/octo_2_h.nc height /tmp/height.txt 0 700 1200 200 1200 2
+/home/vboxuser/build-foward_diser-Desktop-Release/export_cdf/netcdf-exporter /home/vboxuser/foward_diser/data/octo_3_h.nc height /tmp/height.txt 0 700 1200 200 1200 3
+/home/vboxuser/build-foward_diser-Desktop-Release/export_cdf/netcdf-exporter /home/vboxuser/foward_diser/data/octo_4_4_h.nc height /tmp/height.txt 0 700 1200 200 1200 4
